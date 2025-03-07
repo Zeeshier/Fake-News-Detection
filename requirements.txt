@@ -1,0 +1,7 @@
+streamlit
+scikit-learn==1.2.2
+joblib
+numpy
+pandas
+nltk
+python==3.10.12
