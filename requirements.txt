@@ -1,1 +1,6 @@
 joblib
+scikit-learn==1.2.2
+python ==3.10
+numpy
+pandas
+ntlk
