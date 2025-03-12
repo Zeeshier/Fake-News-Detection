@@ -42,11 +42,28 @@ This project focuses on detecting **fake news articles** using **machine learnin
 
 ---
 
+## **📖 Jupyter Notebook**  
+
+- **File:** fake-news-detection.ipynb
+- **Includes:**
+  - Data exploration & preprocessing
+  - Feature extraction using TF-IDF
+  - Model training & evaluation
+  - Saving the best accuracy trained model for deployment
+    
+Run it with:
+```bash
+jupyter notebook fake-news-detection.ipynb
+``` 
+---
+
 ## **⚡ Usage**  
 
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/zeeshier/fake-news-detection
+cd fake-news-detection
+
 ```  
 
 2️⃣ **Install dependencies**  
